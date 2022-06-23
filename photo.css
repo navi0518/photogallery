@@ -1,0 +1,26 @@
+html {
+    background-color: rgb(195, 195, 148);
+}
+
+h4 {
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    color: gray;
+}
+
+button {
+    color: black;
+    border-radius: 10px;
+    border-color: rgb(4, 246, 4);
+}
+
+table {
+    align-items: center;
+}
